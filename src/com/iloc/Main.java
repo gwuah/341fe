@@ -34,7 +34,7 @@ public class Main {
 
     private static void printHelp() {
         String x = "\nLab 1: Compiler for ILOC Instruction Set\n" +
-                "Usage: ./341fe [flags] filename\n" +
+                "Usage: ./341fe [optional flag] filename\n" +
                 "Optional Flags:\n" +
                 "-h = Display a list of valid command-line arguments and their descriptions\n" +
                 "-s = Reads the file passed and returns tokens the scanner found\n" +

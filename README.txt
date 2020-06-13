@@ -5,10 +5,7 @@ Change Permission
 chmod a+x 341fe
 
 Run using
-./341fe [flags] filename
-
-Flags
-Usage: ./341fe [flags] filename
+./341fe [optional flag] filename
 
 Optional Flags:
 -h = Display a list of valid command-line arguments and their descriptions
