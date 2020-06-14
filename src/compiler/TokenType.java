@@ -1,4 +1,4 @@
-package com.iloc;
+package compiler;
 
 public enum TokenType {
     COMMA,

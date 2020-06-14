@@ -1,5 +1,5 @@
 SRC_DIR=src/
-BASE_PKG=com/iloc/
+BASE_PKG=compiler/
 
 iloc:
 	@javac $(SRC_DIR)$(BASE_PKG)*.java -d build/

@@ -1,4 +1,4 @@
-package com.iloc;
+package compiler;
 
 abstract class Operators {
     abstract <R> R accept(Visitor<R> visitor);

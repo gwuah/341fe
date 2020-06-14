@@ -1,11 +1,11 @@
-package com.iloc;
+package compiler;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.List;
 
-import static com.iloc.TokenType.*;
+import static compiler.TokenType.*;
 
 class Parser {
     private final List<Token> tokens;
